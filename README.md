@@ -1,18 +1,23 @@
-# Algorithm Visualizer
+# 🔍 AlgoViz Pro
 
 An interactive web application built with React and Vite that helps users understand how different sorting algorithms work through step-by-step visualizations.
 
-## Features
+## 🚀 Features
 
-- Interactive visualization of popular sorting algorithms:
-  - Bubble Sort
-  - Quick Sort
-  - Merge Sort
-- Step-by-step execution control
-- Adjustable animation speed
-- Configurable array size
-- Real-time code highlighting
-- Responsive design
+- 🎨 **Interactive visualization** of popular sorting algorithms:
+  - 🔁 Bubble Sort
+  - ⚡ Quick Sort
+  - 🔀 Merge Sort
+  - 🔼 Insertion Sort
+  - 📉 Selection Sort
+- 📐 Visual learning of **Mathematical Algorithms**:
+  - ♾ Factorial Calculation
+  - 🌀 Fibonacci Series Generation
+- 🕹️ **Step-by-step execution control**
+- 🐢⚡ **Adjustable animation speed**
+- 📏 **Configurable array size**
+- 💡 **Real-time code highlighting**
+- 📱 Fully **responsive design** for desktop and mobile devices
 
 ## Technologies Used
 
@@ -34,7 +39,7 @@ An interactive web application built with React and Vite that helps users unders
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/algorithm-visualizer.git
+git clone https://github.com/Darshangnayak/AlgoViz-Pro.git
 cd algorithm-visualizer
 ```
 
@@ -59,24 +64,57 @@ The application will be available at `http://localhost:5173`
 - `npm run lint` - Runs ESLint to check code quality
 - `npm run preview` - Previews the production build locally
 
-## Features in Detail
+## 🧠 Features in Detail
 
-### Sorting Algorithms
+### 🔢 Sorting Algorithms
 
 1. **Bubble Sort**
-   - Time Complexity: O(n²)
-   - Space Complexity: O(1)
+   - 📉 Time Complexity: O(n²)
+   - 💾 Space Complexity: O(1)
    - Simple comparison-based sorting algorithm
 
 2. **Quick Sort**
-   - Time Complexity: O(n log n)
-   - Space Complexity: O(log n)
+   - 📉 Time Complexity: O(n log n)
+   - 💾 Space Complexity: O(log n)
    - Efficient divide-and-conquer algorithm
 
 3. **Merge Sort**
-   - Time Complexity: O(n log n)
-   - Space Complexity: O(n)
-   - Stable divide-and-conquer algorithm
+   - 📉 Time Complexity: O(n log n)
+   - 💾 Space Complexity: O(n)
+   - Stable and efficient sorting algorithm
+
+4. **Insertion Sort**
+   - 📉 Time Complexity: O(n²)
+   - 💾 Space Complexity: O(1)
+   - Builds the final sorted array one element at a time
+
+5. **Selection Sort**
+   - 📉 Time Complexity: O(n²)
+   - 💾 Space Complexity: O(1)
+   - Repeatedly selects the smallest element and moves it to the sorted part
+
+---
+
+### ➗ Mathematical Algorithms
+
+1. **Fibonacci Series**
+   - 🔢 Time Complexity:
+     - Recursive: O(2ⁿ)
+     - Iterative: O(n)
+   - 💾 Space Complexity:
+     - Recursive: O(n)
+     - Iterative: O(1)
+   - Generates a sequence where each number is the sum of the two preceding ones
+
+2. **Factorial**
+   - 🔢 Time Complexity:
+     - Recursive: O(n)
+     - Iterative: O(n)
+   - 💾 Space Complexity:
+     - Recursive: O(n)
+     - Iterative: O(1)
+   - Calculates the product of all positive integers less than or equal to a given number
+
 
 ### Visualization Controls
 
