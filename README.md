@@ -30,30 +30,30 @@ An interactive web application built with React and Vite that helps users unders
   ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/HomePage.png)
 *A clean and interactive landing page of AlgoViz Pro.*
 
 ### 🔢 Sorting Algorithms
-![Bubble Sort](./screenshots/bubble-sort.png)
+![Bubble Sort](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/SortingAlgo.png)
  
 ### 🔢 Bubble Sort Visualization
 ![Bubble Sort](./screenshots/bubble-sort.png)
 *Animated sorting of bars using Bubble Sort algorithm.*
 
 ### ⏯️ Playback Controls
-![Play Pause](./screenshots/play-pause.png)  
+![Play Pause](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/VisualizationPage.png)  
 *Users can pause or reset sorting animations anytime.*
 
 ### 🔢 Mathematical Algorithms
-![Mathematical Algo](./screenshots/bubble-sort.png)
+![Mathematical Algo](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/Mathametical.png)
 
 
 ### 🔁 Factorial Calculator
-![Factorial](./screenshots/factorial.png)  
+![Factorial](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/visualof%20fact.png)  
 *Visual trace of factorial computation using recursion.*
 
 ### 🔁 Quiz Section
-![Quiz](./screenshots/factorial.png)  
+![Quiz](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/quiz.png)  
 *To Enhance the Knowledge about the topic.*
 
 
