@@ -56,6 +56,11 @@ An interactive web application built with React and Vite that helps users unders
 ![Quiz](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/quiz.png)  
 *To Enhance the Knowledge about the topic.*
 
+ ### 🎥 Demo Video
+
+[Click to watch the demo](https://github.com/Darshangnayak/Ace-Interview/blob/main/project%20video%20(1)%20(1).mp4)
+
+
 
 ## Getting Started
 
