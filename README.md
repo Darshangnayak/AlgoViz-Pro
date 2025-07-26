@@ -37,7 +37,7 @@ An interactive web application built with React and Vite that helps users unders
 ![Bubble Sort](https://github.com/Darshangnayak/AlgoViz-Pro/blob/ba8f4b089641fdcfcc8bc1b89248bc261277715b/SortingAlgo.png)
  
 ### 🔢 Bubble Sort Visualization
-![Bubble Sort](./screenshots/bubble-sort.png)
+![Bubble Sort](https://github.com/Darshangnayak/AlgoViz-Pro/blob/8dda6614a57a03c5dd701756a0831348c10482ab/visualization.png)
 *Animated sorting of bars using Bubble Sort algorithm.*
 
 ### ⏯️ Playback Controls
