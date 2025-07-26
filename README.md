@@ -27,6 +27,36 @@ An interactive web application built with React and Vite that helps users unders
 - React Router DOM
 - ESLint
 
+  ## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+*A clean and interactive landing page of AlgoViz Pro.*
+
+### 🔢 Sorting Algorithms
+![Bubble Sort](./screenshots/bubble-sort.png)
+ 
+### 🔢 Bubble Sort Visualization
+![Bubble Sort](./screenshots/bubble-sort.png)
+*Animated sorting of bars using Bubble Sort algorithm.*
+
+### ⏯️ Playback Controls
+![Play Pause](./screenshots/play-pause.png)  
+*Users can pause or reset sorting animations anytime.*
+
+### 🔢 Mathematical Algorithms
+![Mathematical Algo](./screenshots/bubble-sort.png)
+
+
+### 🔁 Factorial Calculator
+![Factorial](./screenshots/factorial.png)  
+*Visual trace of factorial computation using recursion.*
+
+### 🔁 Quiz Section
+![Quiz](./screenshots/factorial.png)  
+*To Enhance the Knowledge about the topic.*
+
+
 ## Getting Started
 
 ### Prerequisites
